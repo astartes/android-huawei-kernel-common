@@ -8,3 +8,5 @@ config DX_SEP
 
 	  If unsure say M. The compiled module will be
 	  called sep_driver.ko
+
+source "drivers/staging/ramzswap/Kconfig"
